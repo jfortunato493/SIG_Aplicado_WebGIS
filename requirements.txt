@@ -1,4 +1,5 @@
 Flask
+gunicorn
 folium
 geopandas
 pandas
@@ -7,3 +8,4 @@ pyspark
 shapely
 fiona
 pyproj
+rasterio
